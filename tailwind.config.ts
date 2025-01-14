@@ -9,6 +9,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        listfont:"#9F9F9F",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
