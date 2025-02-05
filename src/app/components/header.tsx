@@ -11,7 +11,7 @@ const Header = () => {
             <div className='h-[49px]  absolute ml-16 inset-y-7 flex'>
                 {/* logo and text */}
                 <div className='flex'>
-                    <img src="/assets/logo.png" width={50} height={32} />
+                    <img src="/assets/logo.png" alt="logo" width={50} height={32} />
                     <h1 className={`${montserrat.className} font-bold text-[34px]`}>Furniro</h1>
                     {/* list */}
                     <ul className="w-[430px] h-[24px] flex justify-evenly ml-[250px] self-center font-bold text-[16px]">
